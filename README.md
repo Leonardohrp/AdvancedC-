@@ -1,2 +1,3 @@
-# auth-demo
-.Net Core Authentication Handler Demo
+# Advanced C#
+
+Several C# Advanced features

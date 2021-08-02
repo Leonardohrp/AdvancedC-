@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInternals.Demo.Where", "LinqInternals.Demo\LinqInternals.Demo.Where.csproj", "{BE8D6B20-8B80-41B6-95F5-E1EE680281B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqInternals.Demo.Where", "LinqInternals.Demo\LinqInternals.Demo.Where.csproj", "{BE8D6B20-8B80-41B6-95F5-E1EE680281B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInternals.Demo.Select", "LinqInternals.Demo.Select\LinqInternals.Demo.Select.csproj", "{54ABF6FB-049F-4068-9DA4-4B7C81609501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqInternals.Demo.Select", "LinqInternals.Demo.Select\LinqInternals.Demo.Select.csproj", "{54ABF6FB-049F-4068-9DA4-4B7C81609501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInternals.Demo.Join", "LinqInternals.Demo.Join\LinqInternals.Demo.Join.csproj", "{EBF146CA-3326-4A42-B6E8-A5C79AD22A77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqInternals.Demo.Join", "LinqInternals.Demo.Join\LinqInternals.Demo.Join.csproj", "{EBF146CA-3326-4A42-B6E8-A5C79AD22A77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposable.Demo", "IDisposable.Demo\IDisposable.Demo.csproj", "{E193DA96-BE39-4D3E-B07F-ADC933CF41ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDisposable.Demo", "IDisposable.Demo\IDisposable.Demo.csproj", "{E193DA96-BE39-4D3E-B07F-ADC933CF41ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
