@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Config.Demo", "Config.Demo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexRange.Demo", "IndexRange.Demo\IndexRange.Demo.csproj", "{3D1CB327-ACD6-4386-9772-CF92CA70880E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifetime.Demo", "Lifetime.Demo\Lifetime.Demo.csproj", "{EFE71F7B-E8F3-464F-8664-6A7BDC550463}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{3D1CB327-ACD6-4386-9772-CF92CA70880E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D1CB327-ACD6-4386-9772-CF92CA70880E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D1CB327-ACD6-4386-9772-CF92CA70880E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE71F7B-E8F3-464F-8664-6A7BDC550463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE71F7B-E8F3-464F-8664-6A7BDC550463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE71F7B-E8F3-464F-8664-6A7BDC550463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE71F7B-E8F3-464F-8664-6A7BDC550463}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
