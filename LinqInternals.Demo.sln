@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifetime.Demo", "Lifetime.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern.Demo", "BuilderPattern.Demo\BuilderPattern.Demo.csproj", "{65774639-8898-4BA2-8751-691A5730A9DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCache.Demo", "InMemoryCache.Demo\InMemoryCache.Demo.csproj", "{24F7AE05-F060-4DCB-9D2B-136F92D66F1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{65774639-8898-4BA2-8751-691A5730A9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65774639-8898-4BA2-8751-691A5730A9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65774639-8898-4BA2-8751-691A5730A9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F7AE05-F060-4DCB-9D2B-136F92D66F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F7AE05-F060-4DCB-9D2B-136F92D66F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F7AE05-F060-4DCB-9D2B-136F92D66F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F7AE05-F060-4DCB-9D2B-136F92D66F1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
