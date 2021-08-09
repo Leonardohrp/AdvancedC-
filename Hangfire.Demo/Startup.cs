@@ -50,7 +50,8 @@ namespace Hangfire.Demo
             recurringJobManager.AddOrUpdate(
                 "Run every minute",
                 () => Console.WriteLine("Teste recurring job"),
-                "* * * * *");
+                "* * * * *"
+                );
         }
     }
 }
